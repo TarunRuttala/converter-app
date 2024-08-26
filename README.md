@@ -1,1 +1,1 @@
-It is a fullstack applcation that converts word doc into pdf
+It is a fullstack application that converts word doc into pdf
